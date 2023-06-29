@@ -17,7 +17,7 @@ if (!defined('ROUTES')) {
             [
               "name" => "ApiRest", # route
               "as" => "ApiRest", 
-              "loadControllerName" => "ApiRest" #method
+              "loadControllerName" => "ApiRest" # method
             ],
         ]
     );
